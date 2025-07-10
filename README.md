@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=NO-DARA+V1+WHATSAPP-BOT)](https://git.io/typing-svg)
 
 
 
@@ -12,8 +12,8 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/athulakumara604/ASITHA-MD">
-    <img src="https://telegra.ph/file/dddf7ee9971497aa050ef.jpg"  width="700px">
+<a href="https://github.com/NO-DARA/NO-DARA-v1">
+    <img src="https://i.postimg.cc/rpTfGx41/IMG-20250709-WA0080.jpg"  width="700px">
 </a>
 <hr>
 
@@ -27,7 +27,7 @@
 
 ## CONTACT OWNER
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94789123880)
+[![vajira](https://whatsapp.com/channel/0029Vb6cmbu7oQhToYwka63b)](https://wa.me/242055952705)
 <hr>
 </details>
 
