@@ -7,8 +7,8 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT 
 global.appUrl=process.env.APP_URL || ""     // put your deploy app/bot url here, for 24/7 for (render , koyeb, glitch)
-global.email ="saimsamsun789@gmail.com"
-global.location="Nigeria,Osun,Oshogbo."
+global.email ="tombot422@gmail.com"
+global.location="Congo-BRAZZAVILLE"
 
 
 global.mongodb= process.env.MONGODB_URI || ""
@@ -17,7 +17,7 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Nigeria/Osun,Oshogbo";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
+global.github=process.env.GITHUB|| "https://github.com/NO-DARA/NO-DARA-v1";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Vb6cmbu7oQhToYwka63b";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Vb6cmbu7oQhToYwka63b" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.postimg.cc/rpTfGx41/IMG-20250709-WA0080.jpg" || "https://i.postimg.cc/rpTfGx41/IMG-20250709-WA0080.jpg" ; // SET LOGO FOR IMAGE 
