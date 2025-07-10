@@ -8,7 +8,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://t.me/only_one_empire_tech_bot" target="_blank">
+  <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029Vb6cmbu7oQhToYwka63b" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
  
