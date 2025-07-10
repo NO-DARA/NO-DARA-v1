@@ -1,22 +1,42 @@
-# NO-DARA-V1 
+<div align="center">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+
+
+
+<div align="center">
+</p
+
+<hr>
+
+<hr>
+
 <p align="center">
-  <a href="https://www.youtube.com/@Only_one_empire">
-    <img alt="Suhail docs" height="300" src="./lib/assets/pk.jpg"  old_src= "https://i.postimg.cc/rpTfGx41/IMG-20250709-WA0080.jpg
-  </a>
-</p>
+<a href="https://github.com/athulakumara604/ASITHA-MD">
+    <img src="https://telegra.ph/file/dddf7ee9971497aa050ef.jpg"  width="700px">
+</a>
+<hr>
+
+<hr>
+<b>GET SESSION ID VIA PAIR CODE</b>
+
+<a href='https://pair-web-public.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+<hr>
+<b><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
+
+## CONTACT OWNER
+
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94789123880)
+<hr>
+</details>
+
+## Deploy.
+ [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD)
   
+[![nima](https://img.shields.io/badge/asitha_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
-<p align="center">
+[![nima](https://img.shields.io/badge/asitha_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+   
+[![nima](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
-  <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029Vb6cmbu7oQhToYwka63b" target="_blank">
-    <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
- 
-
----
-
-
- <p align="center"><img src="https://profile-counter.glitch.me/{suhail-whatsapp-bot}/count.svg" alt="NO-DARA-V1 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" /></p>
-
-
-  <p align="center"> Salut tout le monde je suis NO-LIMITE-DARA créateur du bot NO-DARA-V1, pour ceux qui se pose la question le bot NO-DARA-V1 n'est pas toute une copie du bot Suhial , j'ai juste utiliser la méthode de session,bien sûr vous remarquerez le nom Suhial au début de la session c'est logique je vais vous donnez des infos pour déployer le bot. Pour déployer NO-DARA-V1 vous devez tout d'abord obtenir une session du bot Suhial puis aller dans le fichier config.js pour coller la session grâce à ça vous pourriez déployer le bot NO-DARA-V1 sur heroku,render, un panel illimité et autre vps etc... même si vous cliquez pour déployer et que le nom du bot est suhail ne vous inquiété pas c'est normal</p
