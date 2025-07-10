@@ -16,7 +16,7 @@
 ---
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{suhail-whatsapp-bot}/count.svg" alt="SuhailTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{suhail-whatsapp-bot}/count.svg" alt="NO-DARA-V1 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" /></p>
 
 
   <p align="center"> Salut tout le monde je suis NO-LIMITE-DARA créateur du bot NO-DARA-V1, pour ceux qui se pose la question le bot NO-DARA-V1 n'est pas toute une copie du bot Suhial , j'ai juste utiliser la méthode de session,bien sûr vous remarquerez le nom Suhial au début de la session c'est logique je vais vous donnez des infos pour déployer le bot. Pour déployer NO-DARA-V1 vous devez tout d'abord obtenir une session du bot Suhial puis aller dans le fichier config.js pour coller la session grâce à ça vous pourriez déployer le bot NO-DARA-V1 sur heroku,render, un panel illimité et autre vps </p
@@ -46,6 +46,9 @@
 
 - Star ⭐ repo if you like this bot.
 
+DÉVELOPPER PAR: MONDESIR-SAH (NO-LIMITE-DARA 
 
+COMMANDES CRÉE PAR: NO-DOMA
 
+VOICI LE LIEN DE NOTRE CHAÎNE WHATSAPP: 
 
